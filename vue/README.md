@@ -1,4 +1,6 @@
-# Vue Input Mask
+# Vue 1.x Input Mask
+
+Vue text mask works with Vue 1.x. Vue 2.x support will be added once the 2.0 docs are finalized and we can refactor based on final changes to the directive interface.
 
 ## Getting started
 
